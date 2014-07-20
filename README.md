@@ -15,17 +15,16 @@ to
 Open Cinnamon Settings, navigate to Applets, and find the new applet there. You may have to restart cinnamon (ALT+F2, then type in r and press enter to restart via command line) to see it.
 
 #Notes
+
 Copied verbatim from [Original posting at cinnamon spices](http://cinnamon-spices.linuxmint.com/applets/view/30)
-===========
+
 
 ![Preview](https://raw.githubusercontent.com/chuck-knox/cinnamon-utils-menu/master/doc/preview.png "Preview")
 
-
- NOTE: This applet is essentially deprecated because of the new menus in Cinnamon 1.4. It was a good run, ladies and gentlemen. Thanks for your support.
-
+NOTE: This applet is essentially deprecated because of the new menus in cinnamon 1.4. It was a good run, ladies and gentlemen. Thanks for your support
  
 
-Cinnamon Utilities Menu - a simple clickable item that brings up a few powerful utilities that one might use on a regular basis.
+*Cinnamon Utilities Menu* - a simple clickable item that brings up a few powerful utilities that one might use on a regular basis.
 
 You can do the following:
 
