@@ -1,4 +1,4 @@
-![small icon](https://raw.githubusercontent.com/chuck-knox/cinnamon-utils-menu/master/doc/small_ico.png "Small icon") cinnamon-utils-menu
+![small icon](https://gitlab.com/charles-m-knox/cinnamon-utils-menu/-/raw/master/doc/small_ico.png "Small icon") cinnamon-utils-menu
 
 ---
 
@@ -26,7 +26,7 @@ Open Cinnamon Settings, navigate to Applets, and find the new applet there. You 
 
 > *This section is copied verbatim from [Original posting at cinnamon spices](http://cinnamon-spices.linuxmint.com/applets/view/30) - this applet is no longer available*
 
-![Preview](https://raw.githubusercontent.com/chuck-knox/cinnamon-utils-menu/master/doc/preview.png "Preview")
+![Preview](https://gitlab.com/charles-m-knox/cinnamon-utils-menu/-/raw/master/doc/preview.png "Preview")
 
 > This applet has been deprecated because of the new menus in Cinnamon 1.4. It was a good run, ladies and gentlemen. Thanks for your support
 
