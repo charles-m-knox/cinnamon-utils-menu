@@ -2,11 +2,11 @@
 
 ---
 
-Cinnamon utilities menu
+# Cinnamon Utilities Menu
 
 [Original posting at cinnamon spices](http://cinnamon-spices.linuxmint.com/applets/view/30)
 
-#Usage
+## Installation
 
 Extract folder
 
@@ -22,14 +22,13 @@ to
 
 Open Cinnamon Settings, navigate to Applets, and find the new applet there. You may have to restart Cinnamon (`alt+F2`, then type `r` and press `enter` to restart via command line) to see it.
 
-# Notes
+## Notes
 
-Copied verbatim from [Original posting at cinnamon spices](http://cinnamon-spices.linuxmint.com/applets/view/30)
+> *This section is copied verbatim from [Original posting at cinnamon spices](http://cinnamon-spices.linuxmint.com/applets/view/30) - this applet is no longer available*
 
 ![Preview](https://raw.githubusercontent.com/chuck-knox/cinnamon-utils-menu/master/doc/preview.png "Preview")
 
-NOTE: This applet is essentially deprecated because of the new menus in cinnamon 1.4. It was a good run, ladies and gentlemen. Thanks for your support
-
+> This applet has been deprecated because of the new menus in Cinnamon 1.4. It was a good run, ladies and gentlemen. Thanks for your support
 
 *Cinnamon Utilities Menu* - a simple clickable item that brings up a few powerful utilities that one might use on a regular basis.
 
@@ -48,6 +47,6 @@ This was inspired by kolle's restart cinnamon extension: [Link](http://cinnamon-
 
 Leave comments!
 
-# Authors additional comments
+## Authors additional comments
 
 The menu is programmed to launch `gnome-terminal` and `gnome-screenshot -a` for the Terminal function and the screenshot function respectively. If you have a custom terminal/screenshot program, it will not be identified by this applet.
